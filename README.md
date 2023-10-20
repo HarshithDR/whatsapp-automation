@@ -14,9 +14,9 @@ This Python script is a simple tool for sending messages on WhatsApp Web using t
 ## Setup
 
 1. Install the required libraries:
-   ```bash
+```bash
    pip install selenium
-  ```
+```
 
 
 ## Usage
